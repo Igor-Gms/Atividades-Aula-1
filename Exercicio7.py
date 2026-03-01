@@ -11,4 +11,5 @@ if valor > 100:
 
 elif valor <=100:
     print(f"O Valor da Compra é: R$ {valor} ")
-    print("Valor da Compra Näo Qualifica o Desconto!!")
+
+    print("Valor da Compra Não Qualifica o Desconto!!")
